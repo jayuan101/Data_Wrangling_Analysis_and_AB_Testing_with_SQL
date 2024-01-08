@@ -1,5 +1,4 @@
 -- Exercise 1: Create the right subtable for recently viewed events using the view_item_events table.
--- Exercise 1: Create the right subtable for recently viewed events using the view_item_events table.
 SELECT
   dsv1069.users.id AS user_id,
   dsv1069.users.email_address AS user_email,
